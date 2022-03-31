@@ -1,0 +1,305 @@
+
+        
+
+.breadcrumb
+    {
+        float:right;
+        padding: 2%;
+        
+    }
+
+
+
+.col-lg-6.col-md-6.col-12 img
+    {
+        
+        height: auto;
+        width: 20%;
+    }
+
+.collagelogo
+
+{
+    height: auto;
+    width: 40%;
+    opacity: 0.9;
+}
+
+.collagelogo1
+
+{
+    height: auto;
+    width: 50%;
+    padding-top: 6%;
+    padding-left: 30px;
+    margin-left: 160px;
+    
+
+}
+
+.Citeimg1
+{
+    height: auto;
+    width: 50%;
+    margin-left: 30%;
+}
+.card-body2
+{
+    padding-top: 10%;
+}
+
+.card-body3
+{
+    padding-top: 10%;
+}
+
+.card{
+    overflow: hidden;
+}
+.card > .facultym
+{
+    height: 250px;
+    width: 288px;
+}
+
+footer.footer{
+    /* background-color: red; */
+    /* background-image: url("https://cit.edu.np/images/footer-bg.jpg"); */
+    background-image: url(./images/footer-bg.jpg);
+    
+}
+#hr
+{
+    border: 5px solid black;
+    height: 30px;
+    color: gray;
+    background-color: gray;    
+  
+}
+#hr
+{
+    height: 60px;
+    margin-bottom: 0px;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light
+{
+    padding-bottom: 10px;
+}
+
+.paradiv1
+{
+    margin-left: 12rem;
+
+}
+
+.frpart2
+{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.frpart1
+{
+    padding-right: inherit;
+
+}
+
+.footerpart1
+{
+    padding-top: 25px;
+}
+
+.bodypart1
+{
+    padding-top: 50px;
+}
+
+
+header
+{
+    background-color: #00a7ea;
+}
+
+
+
+.fmrow1
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.fmrow2
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.thumb1 
+{
+    width: 20%;
+    height: auto;
+    overflow: hidden;
+
+}
+
+.left
+{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.right
+{
+    display: flex;
+    
+}
+
+.day
+{
+    font-size: 30px;
+}
+.content{
+   
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.eventlist1
+{
+    padding-top: 30px;
+}
+
+.btn_allevents
+{
+   
+    
+    margin-left: 50%;
+    
+}
+
+.notice
+
+{
+    
+    display: flex;
+    
+}
+
+.notice_right
+{
+    
+    display: flex;
+    flex-direction: column;
+
+}
+.notice
+{
+    padding-top: 35px;
+}
+
+.btn_allevents2
+{
+    margin-top: 20px;
+    margin-left: 50%
+}
+
+.flex_info
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left:100px;
+    
+    margin-right: 60px;
+}
+
+.contact_box
+
+{
+    width:400px;
+    background-color:#edf2f6;
+    border: 15px blue;
+    padding: 10px;
+    margin:20px;
+    height: auto;
+
+}
+
+.c_location
+{
+    font-size: 2rem;
+    padding-left: 50%;
+    margin-bottom: 1rem;
+}
+.c_mail
+{
+    font-size: 2rem;
+    padding-left: 50%;
+    padding-bottom: 1rem;
+
+
+}
+
+.c_phone
+{   
+    font-size: 2rem;
+    padding-left: 50%;
+    padding-bottom: 1rem;
+}
+
+.messageus_boder
+{
+    display: inline-block;
+   border-bottom: 2px solid #0dcaf0;
+}
+.form_submit
+{
+    margin-left: 50%;
+
+}
+.container-fluid >.font{
+    font-size: 1rem;
+    color: #00a7ea;
+}   
+
+.nav-link {
+    color: #00a7ea !important;
+    font-size: 1rem;
+
+
+}
+
+.dropdown-item
+{
+    color: #00a7ea;
+}
+
+.cite_image99
+{
+    margin-top: 50px;
+}
+
+.list-group > a
+{
+    border: none;
+}
+ .frpart2 > a
+{
+    border: none;
+}
+
+.frpart1 > a
+{
+    border: none;
+}
+.list-group-item
+{
+    border: none;
+}
+
